@@ -8,3 +8,12 @@ version = "0.1.0"
 
 [dependencies]
 python = "3.10.*"
+
+[pypi-dependencies]
+jupyterlab = ">=4.5.0, <5"
+numpy = ">=2.2.6, <3"
+pandas = ">=2.3.3, <3"
+polars = ">=1.36.1, <2"
+matplotlib = ">=3.10.8, <4"
+plotly = ">=6.5.0, <7"
+scipy = ">=1.15.3, <2"
